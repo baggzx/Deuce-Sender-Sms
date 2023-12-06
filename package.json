@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "email-to-phone": "^1.0.3",
+    "eml-format": "^0.6.1",
+    "express": "^4.17.2",
+    "free-proxy": "^0.2.0",
+    "jquery": "^3.6.0",
+    "jsdom": "^19.0.0",
+    "mime": "^3.0.0",
+    "node-fetch": "2.0",
+    "nodemailer": "^6.7.2",
+    "nodemailer-ntlm-auth": "^1.0.1",
+    "open": "^8.4.0",
+    "request": "^2.88.2",
+    "smtp-tester": "^1.2.0",
+    "socks": "^1.1.8",
+    "tel-carrier-gateways": "^2.0.0",
+    "throttled-queue": "^2.1.2",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
